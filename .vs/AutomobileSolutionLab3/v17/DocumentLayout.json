@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{639FD878-F393-41AD-A6C5-6052FD96AF65}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\fulearning\\spring2024\\prn211\\lab3\\automobilesolutionlab3\\automobilelibrary\\dataaccess\\mystockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639FD878-F393-41AD-A6C5-6052FD96AF65}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\dataaccess\\mystockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\views\\shared\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\shared\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\views\\shared\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\shared\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\views\\shared\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\shared\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639FD878-F393-41AD-A6C5-6052FD96AF65}|AutomobileLibrary\\AutomobileLibrary.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilelibrary\\dataaccess\\cardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639FD878-F393-41AD-A6C5-6052FD96AF65}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\dataaccess\\cardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\automobilewebapp\\views\\shared\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{900A06EE-6573-4733-A86D-D8C9E459130F}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\shared\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyStockContext.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "RelativeToolTip": "AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:22:29.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\appsettings.json",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\appsettings.json",
+              "RelativeToolTip": "AutomobileWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T14:17:31.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AutomobileWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T14:17:29.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AutomobileWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:14:23.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T04:00:58.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T04:00:53.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\Details.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Shared\\Details.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\Details.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Shared\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T04:57:32.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Controllers\\CarsController.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "AutomobileWebApp\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:43:16.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarDAO.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileLibrary\\DataAccess\\CarDAO.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\DataAccess\\CarDAO.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileLibrary\\DataAccess\\CarDAO.cs",
+              "RelativeToolTip": "AutomobileLibrary\\DataAccess\\CarDAO.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwHEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:43:03.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Shared\\Delete.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\Delete.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Shared\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T04:41:01.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Shared\\Edit.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\Edit.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Shared\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T04:40:26.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\Create.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Shared\\Create.cshtml",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Lab3\\AutomobileSolutionLab3\\AutomobileWebApp\\Views\\Shared\\Create.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Shared\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T04:39:04.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+D:\FULearning\Spring2024\PRN211\Lab3\AutomobileSolutionLab3\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
